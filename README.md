@@ -1,4 +1,5 @@
 # 🐧 Penguin-Burry Chart Analyzer
+<img width="1131" height="658" alt="Screenshot 2026-02-03 at 9 18 18 AM" src="https://github.com/user-attachments/assets/a49adb18-345b-4ee2-91dc-bc729fb68c66" />
 
 > **AI-Powered Trading Intelligence Platform** — Claude Opus 4.5 Vision + Web Search + Quantitative Analysis
 
